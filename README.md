@@ -4,14 +4,8 @@ An AI-powered web application that estimates house construction costs in the Phi
 
 Built with **Next.js, Tailwind CSS, Flask, and scikit-learn**, this project demonstrates full-stack development with real-world ML integration.
 
----
 
-## 🌐 Live Demo
 
-👉 Frontend: https://your-frontend-url.onrender.com  
-👉 API: https://your-api-url.onrender.com  
-
----
 
 ## ✨ Features
 
@@ -94,7 +88,7 @@ house-price-ai/
 ### 1. Clone repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/house-price-ai.git
+
 cd house-price-ai
 2. Run ML Backend (Flask)
 cd ml
@@ -144,5 +138,5 @@ FLASK_API_URL=https://your-api-url.onrender.com
 
 EJ (Tech Unlocked)
 
-GitHub: https://github.com/YOUR_USERNAME
-Portfolio: (add your link)
+GitHub:https://github.com/ejluv143
+Portfolio: https://ej-portfolio-chi.vercel.app/
